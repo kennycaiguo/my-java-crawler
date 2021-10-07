@@ -5,4 +5,4 @@
 # <a href="https://github.com/hemin1003/java-spider">一个基于webmagic框架二次开发的java爬虫框架实战，已实现能爬取腾讯，搜狐，今日头条（单独集成功能）等资讯内容</a>
 # <a href="https://github.com/weiyinfu/java-python-crawler">学习Java和Python爬虫</a>
 # <a href="https://github.com/code4craft/webmagic">Java网络爬虫框架webmagic</a>
-# <a href="http://webmagic.io/docs/zh/posts/ch1-overview/thinking.html">webmagic职位文档</a>
+# <a href="http://webmagic.io/docs/zh/posts/ch1-overview/thinking.html">webmagic中文文档</a>
